@@ -4,3 +4,6 @@ Image Super Resolution Using Autoencoders in Keras, Design and train this deep l
 
 ### Model's Output -
 ![](https://github.com/anuj-glitch/Image-Super-Resolution/blob/master/Models%20output.PNG)
+
+### Model Architecture  - 
+![](https://github.com/anuj-glitch/Image-Super-Resolution/blob/master/model_plot.png)
